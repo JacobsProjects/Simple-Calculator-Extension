@@ -11,6 +11,9 @@ A Simple Calculator Extension to use for school, or any other reason why you mig
 - Calculates
 - Version for chrome
 
+## Why did I make this?
+- for fun
+
 ## Installation
 
 1. Download the repo using git 
